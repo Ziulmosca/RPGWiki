@@ -1,0 +1,2 @@
+# RPGWiki
+A RPG wiki
